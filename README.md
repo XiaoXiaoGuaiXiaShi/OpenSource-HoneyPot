@@ -13,3 +13,4 @@
 ## 蜜罐分类整理总结
 
 - 1、https://github.com/paralax/awesome-honeypots
+- 2、欺骗技术入门：13款开源工具分享：https://www.freebuf.com/sectool/207121.html
