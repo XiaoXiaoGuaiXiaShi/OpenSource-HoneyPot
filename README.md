@@ -8,7 +8,8 @@
 - [x] Web蜜罐Snare/Tanner
 - [x] 服务器蜜罐Opencanary
 - [x] 蜜罐HoneyPy
-- [ ] 虚拟蜜罐软件Honeyd
+- [ ] 容器蜜罐Whaler
+
 
 ## 蜜罐分类整理总结
 
